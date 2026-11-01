@@ -1,0 +1,5 @@
+# Agent utilise au demarrage des nouvelles sessions
+default_agent = "ask"
+
+# Desactiver le mode global d'approbation automatique
+enable_auto_approve = false
